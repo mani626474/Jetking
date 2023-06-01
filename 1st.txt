@@ -1,0 +1,4 @@
+1) What is an EVM?
+Ans:- Ethereum Virtual Machine is used for creating a smart contract with help of solidity programming language.
+EVM is basically used for Crowdfunding , auction , and also used for voting.
+Ethereum virtual Mechine is created by Ethereum teams

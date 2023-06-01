@@ -1,0 +1,26 @@
+2) Write a Smart Contract for understanding value types in Solidity
+Programming Language.
+Ans:-//SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.20;
+
+contract ValueTypes
+{
+    uint public message1;
+    bool public message2;
+    address public myAddress;
+
+    function valuetype(uint _mynumber) external
+    {
+        uint mynumber = 123;
+        bool myboolean = false;
+
+        uint Mynumber = mynumber+123;
+        bool Myboolean = true;
+
+        message1 = 123;
+        message2 = true;
+        myAddress= address(1);
+        
+    }
+}
